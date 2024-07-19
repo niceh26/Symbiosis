@@ -14,7 +14,7 @@
 ### 1.0.3
 - Symbiosis now integrated with *NuclearLib*
 - Configuration options added for all features
-- Hoarding Bugs disperse after nest return, allowing space for others
+- Hoarding Bugs move around and make room, reducing crowding.
 - New feature: *Stench Of Death* - spawns flies on player corpses after ~1 minute
 
 ### 1.0.4
@@ -23,3 +23,8 @@
 
 ### 1.0.5
 - Fixed the vanilla bug that hoarding bugs do not drop items upon death.
+
+### 1.0.6
+- Updated to *Version 55*
+- Removed *Stench Of Death* due to popular request
+- Added LethalConfig soft support

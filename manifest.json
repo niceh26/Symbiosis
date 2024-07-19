@@ -1,6 +1,6 @@
 {
   "name": "Symbiosis",
-  "version_number": "1.0.5",
+  "version_number": "1.0.6",
   "website_url": "https://github.com/niceh26/Symbiosis",
   "description": "Make items, monsters and players interact together.",
   "dependencies": [
