@@ -28,3 +28,6 @@
 - Updated to *Version 55*
 - Removed *Stench Of Death* due to popular request
 - Added LethalConfig soft support
+
+### 1.0.7
+- Fixed items still being activated after being dropped by hoarding bug
